@@ -1,0 +1,11 @@
+{
+	"editor.formatOnSave": false,
+	"editor.defaultFormatter": null,
+	"prettier.enable": false,
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+	}
+}
